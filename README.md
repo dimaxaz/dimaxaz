@@ -33,13 +33,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#dimaxaz-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#dimaxaz-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>Go
     </td>
@@ -51,7 +51,7 @@
     </td>
     <td align="center" width="96">
       <a href="#dimaxaz-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
